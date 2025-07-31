@@ -36,17 +36,19 @@ Sou um entusiasta de tecnologia, apaixonado por desenvolvimento e sempre buscand
 
 ## 📈 GitHub Stats
 
-![Elivelton Costa GitHub Stats](https://github-readme-stats.vercel.app/api?username=elivelton-costa&show_icons=true&theme=radical)
+![Elivelton Costa GitHub Stats](https://github-readme-stats.vercel.app/api?username=elivelton-costa&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elivelton-costa&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elivelton-costa&layout=compact&theme=transparent)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elivelton-costa&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)
 
 ## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/elivelton-costa)
-- Email: elivelton_costa@live.com
+- [E-mail](mailto:elivelton_costa@live.com)
 
 ---
 
-⭐️ Obrigado por visitar meu perfil!
+Obrigado por visitar meu perfil!
 
 <!-- **elivelton-costa/elivelton-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
