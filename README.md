@@ -40,16 +40,7 @@ Sou um entusiasta de tecnologia, apaixonado por desenvolvimento e sempre buscand
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elivelton-costa&layout=compact&theme=transparent)
 
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elivelton-costa&theme=transparent) -->
-
-<!-- GitHub Streak -->
-<p>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=elivelton-costa&theme=transparent"
-    alt="GitHub Streak"
-    onerror="this.style.display='none'" 
-  />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=elivelton-costa&theme=transparent)
 
 ## 📫 Contato
 
